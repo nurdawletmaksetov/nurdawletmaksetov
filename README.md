@@ -1,6 +1,8 @@
 ## Hi there 👋
 # nurdawletmaksetov
 # Hi 👋 My name is Nurdawlet
+- 🌱 I’m currently learning TypeScript
+
 
 ## 🚀 Skills
 
