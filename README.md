@@ -30,9 +30,9 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=USERNAME&color=blue" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=nurdawletmaksetov&color=blue" alt="profile views" />
   &nbsp;
-  <img src="https://visitor-badge.glitch.me/badge?page_id=USERNAME.USERNAME" alt="visitor count" />
+  <img src="https://visitor-badge.glitch.me/badge?page_id=nurdawletmaksetov" alt="visitor count" />
 </p>
 
 
