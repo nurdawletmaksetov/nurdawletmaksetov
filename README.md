@@ -30,10 +30,13 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nurdawletmaksetov&color=blue" alt="profile views" />
-  &nbsp;
-  <img src="https://visitor-badge.glitch.me/badge?page_id=nurdawletmaksetov" alt="visitor count" />
+  <img src="https://komarev.com/ghpvc/?username=nurdawletmaksetov&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  &nbsp;&nbsp;
+  <a href="https://hits.seeyoufarm.com">
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/nurdawletmaksetov&title=Profile%20Views" alt="Hits"/>
+  </a>
 </p>
+
 
 
 <!--
