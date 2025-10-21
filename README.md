@@ -35,6 +35,8 @@
 
 ![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=nurdawletmaksetov.nurdawletmaksetov)
 
+---
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=USERNAME&color=blue" alt="profile views" />
   &nbsp;
