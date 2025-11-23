@@ -1,5 +1,5 @@
 # Hi 👋 My name is Nurdawlet
-- 🌱 I’m currently learning TypeScript
+- 🌱 I’m currently learning Go
 
 
 ## 🚀 Skills
