@@ -10,6 +10,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/TanStack-Query-38b000?style=for-the-badge&logo=tanstack-query&logoColor=white)
 ---
 
 ## Tools
