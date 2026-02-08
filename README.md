@@ -17,7 +17,7 @@
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=FFD62E)
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![WebStorm](https://img.shields.io/badge/Web-Storm-0078D4?style=for-the-badge&logo=web-storm&logoColor=white))
+![WebStorm](https://img.shields.io/badge/Web-Storm-0078D4?style=for-the-badge&logo=web-storm&logoColor=white)
 
 ---
 
