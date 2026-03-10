@@ -1,4 +1,4 @@
-# Hi 👋 My name is Nurdawlet
+# Yo sup 👋 am Nurdawlet
 
 ## 🚀 Skills
 
